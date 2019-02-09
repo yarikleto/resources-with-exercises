@@ -1,4 +1,4 @@
-# Resources with tasks
+# Resources with exercises
 
 ---
 
