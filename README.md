@@ -53,3 +53,8 @@ Sphere Online Judge (SPOJ) is an online judge that provides over 20k coding chal
 CodinGame is a bit different from the other websites because instead of simply solving coding challenges in an editor, you actually take part in writing the code for game that you play directly online. The game comes with a problem description, test cases, and an editor where you can write your code in one of 20+ programming languages.
 
 ---
+
+#### [Code jam](https://code.google.com/codejam/past-contests)
+Code Jam is Google's longest running global coding competition, where programmers of all levels put their skills to the test. Competitors work their way through a series of online algorithmic puzzles to earn a spot at the World Finals, all for a chance to win the championship title and $15,000.
+
+---
