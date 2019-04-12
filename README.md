@@ -58,3 +58,8 @@ CodinGame is a bit different from the other websites because instead of simply s
 Code Jam is Google's longest running global coding competition, where programmers of all levels put their skills to the test. Competitors work their way through a series of online algorithmic puzzles to earn a spot at the World Finals, all for a chance to win the championship title and $15,000.
 
 ---
+
+#### [Codecombat](https://codecombat.com/)
+CodeCombat is a game-based computer science program where students type real code and see their characters react in real time.
+
+---
