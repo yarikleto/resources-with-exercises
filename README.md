@@ -1,5 +1,7 @@
 # Resources with exercises
 
+### [Exercism](https://exercism.io/)
+
 ---
 
 #### [TestDome](https://www.testdome.com/)
