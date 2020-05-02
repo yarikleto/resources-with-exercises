@@ -65,3 +65,9 @@ Code Jam is Google's longest running global coding competition, where programmer
 CodeCombat is a game-based computer science program where students type real code and see their characters react in real time.
 
 ---
+
+#### [checkiO](https://js.checkio.org/)
+TypeScript practice. More than three hundred TypeScript exercises
+---
+
+
