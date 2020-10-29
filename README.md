@@ -70,5 +70,5 @@ CodeCombat is a game-based computer science program where students type real cod
 TypeScript practice. More than three hundred TypeScript exercises
 
 ---
-https://practice.geeksforgeeks.org/home/
+#### [GeeksForGeeks](https://practice.geeksforgeeks.org/home/)
 
